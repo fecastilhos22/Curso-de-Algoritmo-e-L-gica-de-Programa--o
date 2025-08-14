@@ -1,6 +1,8 @@
 <h1 align="center">Curso de Algoritmo e Lógica de Programação</h1>
 Curso de Algoritmo e Lógica de Programação da Udemy do professor Leonardo Moura Leitão. 
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                    
 Javascript
