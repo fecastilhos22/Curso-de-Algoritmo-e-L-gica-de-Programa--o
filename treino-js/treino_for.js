@@ -1,3 +1,4 @@
+/*
 for (let controle = 1; controle <= 10; controle++) {
     console.log(controle);
 }
@@ -19,6 +20,38 @@ for (let numero = 1;  contador <= 10; ) {
   console.log(`${numero} x ${contador} = ${numero * contador}`);
   contador++;
 }
+*/
+/*
+//Exercício 1
+let impar = 0;
 
+
+for(let i = 1; i <=50; i++) {
+  if (i % 2 !== 0){
+    impar = impar + i
+  }
+   
+}
+console.log(impar);
+console.log('Fim!');
+
+//Exercício 2
+let soma = 0;
+let n = 10;
+
+for (let i = 1;  i <= n; i++ ) {
+   soma = soma + i 
+}
+console.log("A soma dos números é ", soma);
+
+//Exercício 3
+let numero = 5;
+
+for (let contador = 1;  contador <= 10; ) {
+    
+  console.log(`${numero} x ${contador} = ${numero * contador}`);
+  contador++;
+}
+*/
 
 
