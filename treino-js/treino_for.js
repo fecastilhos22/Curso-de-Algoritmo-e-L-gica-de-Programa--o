@@ -54,4 +54,13 @@ for (let contador = 1;  contador <= 10; ) {
 }
 */
 
+preco_1 = 10.00;
+preco_2 = 15.00;
+total = 0;
+
+total = preco_1 + preco_2;
+console.log(`O total a pagar é R$ ${total.toFixed(2)}`)// duas casas decimais
+
+console.log(preco_1 + preco_2)
+
 
