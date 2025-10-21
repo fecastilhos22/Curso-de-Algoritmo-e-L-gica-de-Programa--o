@@ -6,7 +6,7 @@ const d2 = 23;
 const m2 = 12;
 const a2 = 2022;
 
-function exibirData (d, m a){
+function exibirData (d, m, a){
 console.log(`${d}/${m}/${a}`);   
 }
 
