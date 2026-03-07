@@ -2,9 +2,12 @@
 function somar(a, b) {
     return a + b;
 }
+//somar (30,56); não mostra o resultado no terminal, mas executa a função
 
-let resultado = somar(30, 56);
-console.log(`O resultado final é: ${resultado}`);
+let resultado = somar(30, 56);//váriavel recebe o valor executado pela função
+console.log(resultado)//imprime a variável como resultado
+console.log(somar(30,56));//imprime a função com os valores
+console.log(`O resultado final é: ${resultado}`);//concatenando
 console.log(`O resultado final é: ${somar(30, 56)}`);
 
 // #2: Função COM Parâmetros e SEM Retorno
