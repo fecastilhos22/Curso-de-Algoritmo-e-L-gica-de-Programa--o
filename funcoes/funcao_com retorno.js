@@ -1,5 +1,5 @@
 function sempreRetornaUm() {
-    return 1; // para retornar valores fixos
+    return 1; // para retornar valores fixos ou também a funcao poderia retornar o que ela precisa fazer como uma soma ou subtração a + b(não esquecendo de passar os parametros)
 }
 
 function textoOuNumero(retornaTexto) {
